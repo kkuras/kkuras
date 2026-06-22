@@ -1,3 +1,5 @@
+## Olá, perdido por aqui?
+
 ### 🛠️ Ferramentas
 
 <p align="center">
@@ -11,9 +13,13 @@
 
 ### 🚧 Projetos
 
+<div align="center">
+
 | Projeto | Descrição | Status |
 |---|---|---|
 | [WallBoard](https://github.com/kkuras/Fabric-WallBoard-26.X) | Mod de Minecraft feito com Fabric para MC 26.X | 🔨 Em desenvolvimento |
+
+</div>
 
 ---
 
@@ -22,3 +28,5 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/top-langs/?username=kkuras&layout=compact&show_icons=true&theme=dark&langs_count=6&count_private=true&cache_seconds=1800" width="390"/>
 </p>
+
+*lá ele*
