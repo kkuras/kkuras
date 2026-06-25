@@ -1,4 +1,4 @@
-## Olá, perdido por aqui?
+## Seja Bem-Vindo ao meu Perfil!
 
 ### 🛠️ Ferramentas
 
@@ -28,5 +28,3 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/top-langs/?username=kkuras&layout=compact&show_icons=true&theme=dark&langs_count=6&count_private=true&cache_seconds=1800" width="390"/>
 </p>
-
-*lá ele*
