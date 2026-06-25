@@ -1,6 +1,6 @@
 ## Seja Bem-Vindo ao meu Perfil!
 
-### 🛠️ Ferramentas
+### 🛠️ Stacks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,git,idea&theme=dark" />
