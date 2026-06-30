@@ -17,7 +17,7 @@
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| [WallBoard](https://github.com/kkuras/Fabric-WallBoard-26.X) | Mod de Minecraft feito com Fabric para MC 26.X | 🔨 Em desenvolvimento |
+| [WallBoard](https://github.com/kkuras/Fabric-WallBoard-26.X) | Mod de Minecraft feito com Fabric, com o intuito de adicionar um quadro de avisos personalizavel | 🔨 Em desenvolvimento |
 
 </div>
 
