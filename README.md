@@ -24,11 +24,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkuras&theme=dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkuras&theme=dracula" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/?username=kkuras&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=prs_merged&cache_seconds=1800" width="387"/>
+  <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/?username=kkuras&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=prs_merged&cache_seconds=1800" width="387"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/top-langs/?username=kkuras&layout=compact&show_icons=true&theme=dark&langs_count=6&count_private=true&cache_seconds=1800" width="390"/>
+  <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/top-langs/?username=kkuras&layout=compact&show_icons=true&theme=dracula&langs_count=6&count_private=true&cache_seconds=1800" width="390"/>
 </p>
