@@ -32,3 +32,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/top-langs/?username=kkuras&layout=compact&show_icons=true&theme=dracula&langs_count=6&count_private=true&cache_seconds=1800" width="390"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkuras&color=bd93f9&style=for-the-badge&label=Visitantes"/>
+</p>
