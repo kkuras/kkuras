@@ -18,6 +18,7 @@
 | Projeto | Descrição | Status |
 |---|---|---|
 | [WallBoard](https://github.com/kkuras/Fabric-WallBoard-26.X) | Mod de Minecraft feito com Fabric, com o intuito de estudo e adicionar um quadro de avisos personalizavel | 🔨 Em desenvolvimento |
+| [BattleSheet](https://github.com/kkuras/BattleSheet) | Uma Sheet de pokemon VGC com possibilidade para outras regulações | 🔨 Em desenvolvimento
 
 </div>
 
