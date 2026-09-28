@@ -17,7 +17,6 @@
 - ☕ Desenvolvo soluções funcionais, ferramentas para jogos e projetos autorais.
 - ⛏️ **Foco Atual:** Me aprofundando na arquitetura de mods para **Minecraft** utilizando a **Fabric API**.
 - 🎮 **Outros Projetos:** Crio utilitários e ferramentas voltados ao cenário competitivo de **Pokémon VGC**.
-- 💬 **Pergunte-me sobre:** Java, Python, Modding ou estratégias de VGC!
 
 ---
 
