@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Criador+de+Mods+para+Minecraft;Estrategista+de+Pokémon+VGC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Minecraft+Modder;Estrategista+de+Pokémon+VGC" alt="Typing SVG" />
   </a>
 </p>
 
